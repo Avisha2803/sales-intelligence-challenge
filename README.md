@@ -62,24 +62,6 @@ All deals follow a broadly similar lifecycle, making comparisons meaningful
 If any of these assumptions are violated, insights and recommendations may be biased or incomplete.
 
 
-# Sales Intelligence Challenge – SkyGeni
-
-## How to Run (VS Code)
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-2. Run EDA:
-python src/eda.py
-
-3. Run Metrics:
-python src/metrics.py
-
-4. Run Decision Engine:
-python src/decision_engine.py
-
-
 # Sales Intelligence Analysis & Decision Engine
 
 ## Overview
